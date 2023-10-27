@@ -1,0 +1,12 @@
+
+1. Upload the files in the gitHub repository
+
+2. Import and deploy the files in render website
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AnishJ3/crud-deployment1.git
+git push -u origin main
